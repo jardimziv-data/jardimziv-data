@@ -8,7 +8,6 @@ Estou explorando os fundamentos do desenvolvimento de software, aprendendo um po
 
 * Atualmente estou estudando: **Lógica de programação, Git, GitHub e os fundamentos da web**.
 * Meu objetivo atual: **Construir uma base sólida e descobrir quais áreas da tecnologia mais me atraem**.
-* Curiosidade: Gosto de entender como as coisas funcionam por baixo do capô.
 
 ---
 
